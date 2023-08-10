@@ -1,0 +1,4 @@
+Download images from websites
+Handle relative and absolute image URLs
+Graceful error handling for failed requests
+Respect website policies and terms of use
